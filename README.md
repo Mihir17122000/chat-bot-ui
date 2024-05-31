@@ -26,6 +26,11 @@ bun install
 ## Description
 This is a simple chatbot script programmed to respond to various user inputs with predefined messages. It uses a set of key-value pairs to match user queries to appropriate responses.
 
+| Dark Chatbot Image | Light Chatbot Image |
+|:------------------:|:-------------------:|
+| ![Dark Chatbot Image](/public/dark-bot.png) | ![Light Chatbot Image](/public/light-bot.png) |
+
+
 ## Usage
 The bot responds to specific user inputs with predefined messages. Here are the supported commands:
 
